@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "portfolioを作ってみた話"
 date: "2021-01-30 16:04:56 +0900"
 
