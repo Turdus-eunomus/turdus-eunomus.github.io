@@ -6,6 +6,7 @@ url: "https://turdus-eunomus.github.io" # the base hostname & protocol for your 
 baseurl : /
 # Build settings
 layout: default
+theme: default
 plugins:
   - jekyll-feed
 
