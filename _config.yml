@@ -1,0 +1,14 @@
+title: unknown
+email: starrysky021205@gmail.com
+
+
+url: "https://turdus-eunomus.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl : /
+# Build settings
+layout: default
+plugins:
+  - jekyll-feed
+
+permalink: /:month/:day/:minute
+gist:
+  noscript: false
