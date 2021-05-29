@@ -2,7 +2,7 @@ title: unknown
 email: starrysky021205@gmail.com
 
 
-url: "https://turdus-eunomus.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://turdus-eunomus.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl : /
 # Build settings
 layout: default
